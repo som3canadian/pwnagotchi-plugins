@@ -2,7 +2,7 @@
 
 ## S3_bucket
 
-`/etc/pwnagotchi/config.toml`
+Download/Copy the `s3_bucket.py` file in `/usr/local/share/pwnagotchi/custom-plugins` and after modify your config file (`/etc/pwnagotchi/config.toml`).
 
 ```toml
 main.plugins.s3_bucket.enabled = true
