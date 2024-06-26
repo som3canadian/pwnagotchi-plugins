@@ -2,6 +2,8 @@
 
 ## S3_bucket
 
+Build with R2 bucket (CloudFlare) in mind but should work with others S3 compatible services
+
 Download/Copy the `s3_bucket.py` file in `/usr/local/share/pwnagotchi/custom-plugins` and after modify your config file (`/etc/pwnagotchi/config.toml`).
 
 ```toml
